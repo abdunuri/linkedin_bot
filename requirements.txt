@@ -1,0 +1,5 @@
+playwright==1.42.0
+python-dotenv==1.0.0
+together==0.2.10
+Pillow==10.3.0
+requests==2.31.0
